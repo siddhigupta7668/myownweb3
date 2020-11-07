@@ -1,0 +1,29 @@
+h1{
+    color:green;
+}
+
+h2 {
+    color: orange;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color:teal;
+}
+
+a:active {
+    color: lime;
+}
+
+h1:hover {
+color: magenta;
+background-color: paleturquoise;
+}
+
+h2:hover {
+    color: paleturquoise;
+    background-color: magenta;
+}
